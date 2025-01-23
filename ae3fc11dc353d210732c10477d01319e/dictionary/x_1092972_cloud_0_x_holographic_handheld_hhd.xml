@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e5905d5dc353d210732c10477d013187" extends="cmdb_ci_hardware" label="Holographic Handheld HHD" max_length="40" name="x_1092972_cloud_0_x_holographic_handheld_hhd" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Firmware version" max_length="40" name="firmware_version" type="string"/>
+    </element>
+</database>
