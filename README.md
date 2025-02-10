@@ -1,2 +1,2 @@
-# CloudFire Integrations, Inc
+# CloudFire Integrations
 CMDB development
