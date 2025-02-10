@@ -1,2 +1,2 @@
-# Pulse Technology, Inc
+# Nexus Integrations, Inc
 CMDB development
