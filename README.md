@@ -1,2 +1,2 @@
-# Nexus Integrations, Inc
+# Nexis Integrations, Inc
 CMDB development
