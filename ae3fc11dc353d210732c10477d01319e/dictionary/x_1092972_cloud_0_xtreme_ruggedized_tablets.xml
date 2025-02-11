@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="851c574bc3e71210732c10477d0131ba" extends="cmdb_ci_hardware" label="Xtreme Ruggedized Tablets" max_length="40" name="x_1092972_cloud_0_xtreme_ruggedized_tablets" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Firmware version" max_length="40" name="firmware_version" type="string"/>
+    </element>
+</database>
